@@ -52,9 +52,9 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+- [ ] [TryHackMe | Welcome](https://tryhackme.com/room/hello) (Tomorrow)
 
-- [ ] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+- [ ] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme) ✅
 
 - [ ] [TryHackMe | Welcome](https://tryhackme.com/room/welcome)
 

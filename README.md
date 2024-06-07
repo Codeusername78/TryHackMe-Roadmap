@@ -52,11 +52,11 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Welcome](https://tryhackme.com/room/hello) (Tomorrow)
+- [ ] [TryHackMe | Welcome](https://tryhackme.com/room/hello) ✅
 
 - [ ] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme) ✅
 
-- [ ] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
+- [ ] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial) ✅
 
 - [ ] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn) ✅
 

@@ -72,13 +72,13 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
-
 - [ ] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
 - [ ] [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
 
 - [ ] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
+
+- [ ]  [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
 ## Windows Fundamentals
 
